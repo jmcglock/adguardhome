@@ -1,2 +1,2 @@
-# adguardhome
-Some adguardhome stuff.
+Adguardhome
+My personal AdGuard Home stuff.

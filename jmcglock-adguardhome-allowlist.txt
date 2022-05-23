@@ -36,6 +36,6 @@
 @@||jetbrains.space^
 @@||www.nerdfonts.com^
 @@||tokens.playmakerservices.com^
-@@||officecdn.microsoft.com.edgesuite.net^ #office install
-@@||nexusrules.officeapps.live.com^ #office install
-@@||lencr.org^
+@@||officecdn.microsoft.com.edgesuite.net^
+@@||nexusrules.officeapps.live.com^
+@@||ui.com^

@@ -39,3 +39,4 @@
 @@||nerdfonts.com^
 @@||xboxlive.com^
 @@||ui.com^
+@@||docker.io^
